@@ -1,1 +1,1 @@
-# goldBarTest
+This code is submitted by Benjamin Pease as a candidate for SDET Engineer
